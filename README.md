@@ -1,4 +1,7 @@
 ### Hi there 👋
+ 大家好，很高兴认识你们。
+ 我是李翔，来自18级计科三班
+
 
 <!--
 **LLLLXIANG/LLLLXIANG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
